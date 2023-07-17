@@ -1,0 +1,14 @@
+﻿  materiais.cpp
+  p6_iluminacao_parte1.cpp
+C:\Users\joanm\source\repos\meta2_proj\p6_iluminacao_parte1.cpp(26,31): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\joanm\source\repos\meta2_proj\p6_iluminacao_parte1.cpp(26,56): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\joanm\source\repos\meta2_proj\p6_iluminacao_parte1.cpp(42,28): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\joanm\source\repos\meta2_proj\p6_iluminacao_parte1.cpp(42,34): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\joanm\source\repos\meta2_proj\p6_iluminacao_parte1.cpp(42,40): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\joanm\source\repos\meta2_proj\p6_iluminacao_parte1.cpp(43,28): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\joanm\source\repos\meta2_proj\p6_iluminacao_parte1.cpp(43,34): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\joanm\source\repos\meta2_proj\p6_iluminacao_parte1.cpp(43,40): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+  RgbImage.cpp
+C:\Users\joanm\source\repos\meta2_proj\RgbImage.cpp(182,10): warning C4101: 'err': variável local não referenciada
+  Gerando Código...
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'glut32.lib'
